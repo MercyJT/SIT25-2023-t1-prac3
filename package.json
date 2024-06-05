@@ -1,0 +1,26 @@
+{
+  "name": "sit25-2023-t1-prac3",
+  "version": "1.0.0",
+  "description": "SIT725-Prac 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MercyJT/SIT25-2023-t1-prac3.git"
+  },
+  "keywords": [
+    "PRAC3"
+  ],
+  "author": "Mercyline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MercyJT/SIT25-2023-t1-prac3/issues"
+  },
+  "homepage": "https://github.com/MercyJT/SIT25-2023-t1-prac3#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
